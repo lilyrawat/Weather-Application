@@ -6,9 +6,25 @@ The application allow users to search for the weather conditions in a specific l
 
 ## Get Started
 
-To install all the dependencies of the project, download this project folder, and run the below command.
+To install all the dependencies on the server, download this project folder, and run the below command:
 
 ```
+cd server
+npm install
+```
+
+Now that we've install all the dependencies of the server side, To Run the server side, run the following command:
+
+```
+npm dev
+
+```
+
+To install all the dependencies of the Client side :
+
+```
+cd..
+cd client
 npm install
 ```
 
